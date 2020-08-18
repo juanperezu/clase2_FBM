@@ -1,1 +1,9 @@
 pasos github
+1. Crear el repositorio
+
+git init
+git add README.md // opcional
+git add .. 
+git commit -m "clase 1"
+git remote add origin https://github.com/juanperezu/clase2_FBM.git
+git push -u origin master
