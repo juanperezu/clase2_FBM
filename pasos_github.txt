@@ -1,4 +1,4 @@
-pasos github
+pasos github crear y actualizar 
 1. Crear el repositorio
 
 git init
@@ -7,3 +7,6 @@ git add ..
 git commit -m "clase 1"
 git remote add origin https://github.com/juanperezu/clase2_FBM.git
 git push -u origin master
+
+Sí ya está creado
+git add pasos_github.txt
